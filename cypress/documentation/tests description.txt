@@ -1,0 +1,66 @@
+test 1 
+1. Enter www.krups24.pl page
+2. Click on search bar
+3. Type "kawa"
+4. Click on first result in dropdown list
+Result: User sees product page 
+
+test 2
+1. Enter www.krups24.pl page
+2. Click on search bar
+3. Type "kawa" and click Enter
+Result: User sees page with search results containing a word "kawa"
+
+test with fixture
+1. Enter a page www.krups24.pl
+2. Check results of search for phrases from krupsPhrases file
+Result: User sees search results of given phrases
+
+test 3
+1. Enter www.krups24.pl page
+2. Look for Krups Poleca section
+Result: Section Krups Poleca is visible 
+
+test 4
+1. Enter www.krups24.pl page
+2. Look for Bestsellers section 
+Result: Section Bestsellers is visible 
+
+test 5
+1. Enter www.krups24.pl page 
+2. Look for Krups Poleca section 
+3. Clik on viewed product, listed in this category 
+Result: User can click and open product listed in category Krups Poleca
+
+test 6
+1. Enter www.krups24.pl page 
+2. Look for Krups Poleca section 
+3. Clik on viewed product, listed in this category 
+4. Look for the price of the product
+Result: User can see product page and its price
+
+test 7
+1. Enter www.krups24.pl page 
+2. Go to the footer section of the page 
+3. Clik on Historia 
+Result: User can see section with history of the brand 
+
+test 8
+1. Enter www.krups24.pl
+2. Go to the footer section of the page
+3. Click Ekspresy KRUPS w sklepach stacjonarnych
+Result: User can see section Ekspresy KRUPS w sklepach stacjonarnych 
+
+test 9
+1. Enter www.krups24.pl page 
+2. Click on menu bar
+3. Select category ekspresy kapsułkowe
+Result: user can see category ekspresy kapsułkowe 
+
+test 10
+1. Enter www.krups24.pl page 
+2. Clik on category Krups Evidence on top of the page 
+Result: User can see category krups evidence
+
+
+
